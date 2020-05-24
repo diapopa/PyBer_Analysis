@@ -6,9 +6,12 @@ Purpose & Analysis
 
 The purpose of this assignment was to perform exploratory data on PyBer data to explain relationships between the type of cities and the number of drivers, riders and fare values. I created a summary DataFrame grouping data by city type and I calculated values including total fares, average fare per ride, and average fare per driver to clearly display trends and present the data in a more manageable view. I also created a multiple line graph to visually display the data and further highlight these trends. 
 Taking a look at the summary, there are more total rides and total drivers as you move from Rural to Urban city types and total fares increases accordingly. Average fare per rider and driver decreases as you move from Rural to Urban city types because in Rural areas there are fewer drivers and people generally take longer trips as destinations are further apart and in Urban areas, there are more drivers and destinations are closer together. 
-*insert summary
+
+![](analysis/Fig8.png)
+
 Taking a look at the graph, all City Types have a spike in Fare in the middle of February. This spike may land on Valentine’s Day and be caused by people going out to restaurants and bars and not wanting to have to drive so they opt for a ride-sharing service. The total fare varies by each city type with none of the city types having the same total fare as another for any given date. Rural has total fare of $500 or below for any given week. Suburban ranges from around $750 to $1,500 and Urban ranges from about $1,500 to $2,500. 
-*insert graph
+
+![](analysis/Fig9.png)
 
 
 Challenges
